@@ -48,7 +48,7 @@ server{
 ```
 127.0.0.1       bds.test.local
 ```
-- Now yoo should be able to access the application through the following URL
+- Now you should be able to access the application through the following URL
 ```
 bds.test.local
 ```
